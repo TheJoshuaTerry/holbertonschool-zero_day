@@ -1,3 +1,4 @@
+bash/best contains: HEAD
 #!/bin/bash
 <<<<<<< HEAD
 echo "The school is so cool!"
